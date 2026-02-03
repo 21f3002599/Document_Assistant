@@ -243,5 +243,11 @@ This project is intended for **educational and personal use**.
 
 ---
 
+## 📸 Sample Output
+
+![Document Assistant Sample](images/Document Assistant Sample Image.jpg)
+
+---
+
 Happy querying! 🔍📄
 
