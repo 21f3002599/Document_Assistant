@@ -18,7 +18,3 @@ tqdm==4.66.1
 
 # Optional: For better performance
 accelerate==0.25.0
-
-# Note: First run will download models:
-# - sentence-transformers/all-MiniLM-L6-v2 (~90MB)
-# - google/flan-t5-large (~1.5GB) - Better than flan-t5-base for complex questions
